@@ -1,6 +1,6 @@
 ## 0.13.0接口文档说明
 
-A 2D rigid body physics engine for the web written in JavaScript.
+A 2D rigid body physics engine for the web written in JavaScript.  
 
 用Javascript为web编写的2d刚体物理引擎
 
@@ -32,6 +32,4 @@ See also:
 * [CodePen](http://codepen.io/liabru/)
 
 Documentation generated with[YUIDoc](http://yui.github.io/yuidoc/).
-
-
 
